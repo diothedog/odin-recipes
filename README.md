@@ -1,1 +1,2 @@
 # odin-recipes
+This project consists of an index.html home page that links to several recipe pages. Each recipe page includes an image of the recipe, a description, an unordered list containing the ingredients, and an ordered list containing the steps required for the recipe.
